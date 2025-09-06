@@ -1,0 +1,7 @@
+C:\Users\jppaj\source\repos\im102_hw1\bin\Debug\im102_hw1.exe.config
+C:\Users\jppaj\source\repos\im102_hw1\bin\Debug\im102_hw1.exe
+C:\Users\jppaj\source\repos\im102_hw1\bin\Debug\im102_hw1.pdb
+C:\Users\jppaj\source\repos\im102_hw1\obj\Debug\im102_hw1.csproj.AssemblyReference.cache
+C:\Users\jppaj\source\repos\im102_hw1\obj\Debug\im102_hw1.csproj.CoreCompileInputs.cache
+C:\Users\jppaj\source\repos\im102_hw1\obj\Debug\im102_hw1.exe
+C:\Users\jppaj\source\repos\im102_hw1\obj\Debug\im102_hw1.pdb
