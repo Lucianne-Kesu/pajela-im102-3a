@@ -1,0 +1,7 @@
+C:\Users\jppaj\source\repos\pajela-im2-hw2\bin\Debug\pajela-im2-hw2.exe.config
+C:\Users\jppaj\source\repos\pajela-im2-hw2\bin\Debug\pajela-im2-hw2.exe
+C:\Users\jppaj\source\repos\pajela-im2-hw2\bin\Debug\pajela-im2-hw2.pdb
+C:\Users\jppaj\source\repos\pajela-im2-hw2\obj\Debug\pajela-im2-hw2.csproj.AssemblyReference.cache
+C:\Users\jppaj\source\repos\pajela-im2-hw2\obj\Debug\pajela-im2-hw2.csproj.CoreCompileInputs.cache
+C:\Users\jppaj\source\repos\pajela-im2-hw2\obj\Debug\pajela-im2-hw2.exe
+C:\Users\jppaj\source\repos\pajela-im2-hw2\obj\Debug\pajela-im2-hw2.pdb
