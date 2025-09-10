@@ -51,7 +51,7 @@ namespace pajela_im2_hw2
             }
 
             Console.Write($"Sum:{sum.ToString("0.0#")} \t");
-            average = sum / doubleNumbers.Count;
+            average = sum / (rowAgain + columnAgain);
             Console.WriteLine($"average:{average.ToString("0.0#")}");
 
 
