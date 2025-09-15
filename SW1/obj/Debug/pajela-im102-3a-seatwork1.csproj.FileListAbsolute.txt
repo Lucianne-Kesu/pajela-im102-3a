@@ -1,0 +1,14 @@
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\bin\Debug\pajela-im102-3a-seatwork1.exe.config
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\bin\Debug\pajela-im102-3a-seatwork1.exe
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\bin\Debug\pajela-im102-3a-seatwork1.pdb
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\obj\Debug\pajela-im102-3a-seatwork1.csproj.AssemblyReference.cache
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\obj\Debug\pajela-im102-3a-seatwork1.csproj.CoreCompileInputs.cache
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\obj\Debug\pajela-im102-3a-seatwork1.exe
+C:\Users\jppaj\source\repos\pajela-im102-3a-seatwork1\obj\Debug\pajela-im102-3a-seatwork1.pdb
+C:\pajela-im2-3a\SW1\bin\Debug\pajela-im102-3a-seatwork1.exe.config
+C:\pajela-im2-3a\SW1\bin\Debug\pajela-im102-3a-seatwork1.exe
+C:\pajela-im2-3a\SW1\bin\Debug\pajela-im102-3a-seatwork1.pdb
+C:\pajela-im2-3a\SW1\obj\Debug\pajela-im102-3a-seatwork1.csproj.AssemblyReference.cache
+C:\pajela-im2-3a\SW1\obj\Debug\pajela-im102-3a-seatwork1.csproj.CoreCompileInputs.cache
+C:\pajela-im2-3a\SW1\obj\Debug\pajela-im102-3a-seatwork1.exe
+C:\pajela-im2-3a\SW1\obj\Debug\pajela-im102-3a-seatwork1.pdb
