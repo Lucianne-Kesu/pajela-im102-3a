@@ -1,0 +1,7 @@
+C:\Users\jppaj\source\repos\HW3\obj\Debug\HW3.csproj.AssemblyReference.cache
+C:\Users\jppaj\source\repos\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+C:\Users\jppaj\source\repos\HW3\bin\Debug\HW3.exe.config
+C:\Users\jppaj\source\repos\HW3\bin\Debug\HW3.exe
+C:\Users\jppaj\source\repos\HW3\bin\Debug\HW3.pdb
+C:\Users\jppaj\source\repos\HW3\obj\Debug\HW3.exe
+C:\Users\jppaj\source\repos\HW3\obj\Debug\HW3.pdb
